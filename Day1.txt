@@ -1,0 +1,34 @@
+## Vector :-
+
+-> Ai do not understand english. So it converts in to list of numbers 
+and that lsit is called vectors.
+The process is called embedding. 
+
+What is vector?
+-> A vector is the ordered list of real nuumbers.
+-> It is written as 
+                  v=(v1,v2,......,vn)
+            where
+                v- component
+                n- dimention.
+
+->(3,4) is a 2- dimensional vector.
+-> Two vectors are same only if they have the same dimensions and every component matches.
+->Ordered means (3,2) here it is different from (2,3) so the vector is not same.
+
+* Imagine a treasure map that says: “Walk 3 steps right, then 2 steps up.” 
+  That instruction is a vector.It is just a list of numbers that tells you 
+  how far to go in each direction.
+
+*   up
+    ^
+  2 |        * ← you end up here
+    |      ↗
+    |    ↗   (the arrow IS the vector)
+    |  ↗
+    +-----------------> right
+    0    3
+
+* The arrow starts at the origin (0, 0) and points to the spot (3, 2).
+
+
